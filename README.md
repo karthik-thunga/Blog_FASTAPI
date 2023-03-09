@@ -43,6 +43,6 @@ ACCESS_TOKEN_EXPIRE_MINUTES = 30
 1. Clone this repository
 2. Create a virtual environment and activate it
 3. Install dependencies using pip install -r requirements.txt
-4. Set up a PostgreSQL database and update the database connection URL in the config.py file
+4. Set up a PostgreSQL database and update the database connection URL in the .env file
 5. Run database migrations using 'alembic upgrade head'
 6. Start the API server using 'uvicorn main:app --reload'
