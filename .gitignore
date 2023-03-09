@@ -1,0 +1,6 @@
+__pycache__/
+.vscode
+.env
+venv
+venv_win
+venv_django
